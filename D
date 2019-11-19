@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://digital-editing.fas.harvard.edu/manifests/D",
+	"@id": "https://digital-editing.fas.harvard.edu/manifests/D",
 	"@type": "sc:Manifest",
 	"logo": "",
 	"label": "D: Cod. 814, fol. 230ra–233rb",
@@ -10,12 +10,12 @@
 	"attribution": "Darmstadt, Universität- und Landesbibliothek",
 	"sequences": [
 		{
-			"@id": "http://digital-editing.fas.harvard.edu/manifests/D/sequence/normal.json",
+			"@id": "https://digital-editing.fas.harvard.edu/manifests/D/sequence/normal.json",
 			"@type": "sc:Sequence",
 			"label": "Normal Order",
 			"canvases": [
 				{
-					"@id": "http://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_1_left",
+					"@id": "https://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_1_left",
 					"@type": "sc:Canvas",
 					"label": "229v",
 					"height": 511,
@@ -23,27 +23,27 @@
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://digital-editing.fas.harvard.edu/manifests/D/annotation/D-Hs-814_1_left",
+							"@id": "https://digital-editing.fas.harvard.edu/manifests/D/annotation/D-Hs-814_1_left",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_1_left.jpg/full/full/0/default.jpg",
+								"@id": "https://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_1_left.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_1_left.jpg",
+									"@id": "https://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_1_left.jpg",
 									"profile": "https://iiif.io/api/image/2/level2.json"
 								},
 								"height": 511,
 								"width": 390
 							},
-							"on": "http://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_1_left"
+							"on": "https://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_1_left"
 						}
 					]
 				},
 				{
-					"@id": "http://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_1_right",
+					"@id": "https://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_1_right",
 					"@type": "sc:Canvas",
 					"label": "230r",
 					"height": 513,
@@ -51,27 +51,27 @@
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://digital-editing.fas.harvard.edu/manifests/D/annotation/D-Hs-814_1_right",
+							"@id": "https://digital-editing.fas.harvard.edu/manifests/D/annotation/D-Hs-814_1_right",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_1_right.jpg/full/full/0/default.jpg",
+								"@id": "https://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_1_right.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_1_right.jpg",
+									"@id": "https://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_1_right.jpg",
 									"profile": "https://iiif.io/api/image/2/level2.json"
 								},
 								"height": 513,
 								"width": 383
 							},
-							"on": "http://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_1_right"
+							"on": "https://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_1_right"
 						}
 					]
 				},
 				{
-					"@id": "http://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_2_left",
+					"@id": "https://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_2_left",
 					"@type": "sc:Canvas",
 					"label": "230v",
 					"height": 515,
@@ -79,27 +79,27 @@
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://digital-editing.fas.harvard.edu/manifests/D/annotation/D-Hs-814_2_left",
+							"@id": "https://digital-editing.fas.harvard.edu/manifests/D/annotation/D-Hs-814_2_left",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_2_left.jpg/full/full/0/default.jpg",
+								"@id": "https://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_2_left.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_2_left.jpg",
+									"@id": "https://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_2_left.jpg",
 									"profile": "https://iiif.io/api/image/2/level2.json"
 								},
 								"height": 515,
 								"width": 391
 							},
-							"on": "http://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_2_left"
+							"on": "https://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_2_left"
 						}
 					]
 				},
 				{
-					"@id": "http://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_2_right",
+					"@id": "https://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_2_right",
 					"@type": "sc:Canvas",
 					"label": "231r",
 					"height": 520,
@@ -107,27 +107,27 @@
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://digital-editing.fas.harvard.edu/manifests/D/annotation/S-Hs-814_2_right",
+							"@id": "https://digital-editing.fas.harvard.edu/manifests/D/annotation/S-Hs-814_2_right",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_2_right.jpg/full/full/0/default.jpg",
+								"@id": "https://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_2_right.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_2_right.jpg",
+									"@id": "https://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_2_right.jpg",
 									"profile": "https://iiif.io/api/image/2/level2.json"
 								},
 								"height": 520,
 								"width": 387
 							},
-							"on": "http://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_2_right"
+							"on": "https://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_2_right"
 						}
 					]
 				},
 				{
-					"@id": "http://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_3_left",
+					"@id": "https://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_3_left",
 					"@type": "sc:Canvas",
 					"label": "231v",
 					"height": 515,
@@ -135,27 +135,27 @@
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://digital-editing.fas.harvard.edu/manifests/D/annotation/S-Hs-814_3_left",
+							"@id": "https://digital-editing.fas.harvard.edu/manifests/D/annotation/S-Hs-814_3_left",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_3_left.jpg/full/full/0/default.jpg",
+								"@id": "https://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_3_left.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_3_left.jpg",
+									"@id": "https://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_3_left.jpg",
 									"profile": "https://iiif.io/api/image/2/level2.json"
 								},
 								"height": 515,
 								"width": 391
 							},
-							"on": "http://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_3_left"
+							"on": "https://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_3_left"
 						}
 					]
 				},
 				{
-					"@id": "http://digital-editing.fas.harvard.edu/manifests/D/canavas/S-Hs-814_3_right",
+					"@id": "https://digital-editing.fas.harvard.edu/manifests/D/canavas/S-Hs-814_3_right",
 					"@type": "sc:Canvas",
 					"label": "232r",
 					"height": 513,
@@ -163,27 +163,27 @@
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://digital-editing.fas.harvard.edu/manifests/D/annotation/S-Hs-814_3_right",
+							"@id": "https://digital-editing.fas.harvard.edu/manifests/D/annotation/S-Hs-814_3_right",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_3_right.jpg/full/full/0/default.jpg",
+								"@id": "https://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_3_right.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_3_right.jpg",
+									"@id": "https://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_3_right.jpg",
 									"profile": "https://iiif.io/api/image/2/level2.json"
 								},
 								"height": 513,
 								"width": 388
 							},
-							"on": "http://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_3_right"
+							"on": "https://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_3_right"
 						}
 					]
 				},
 				{
-					"@id": "http://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_4_left",
+					"@id": "https://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_4_left",
 					"@type": "sc:Canvas",
 					"label": "232v",
 					"height": 509,
@@ -191,27 +191,27 @@
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://digital-editing.fas.harvard.edu/manifests/D/annotation/S-Hs-814_4_left",
+							"@id": "https://digital-editing.fas.harvard.edu/manifests/D/annotation/S-Hs-814_4_left",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_4_left.jpg/full/full/0/default.jpg",
+								"@id": "https://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_4_left.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_4_left.jpg",
+									"@id": "https://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_4_left.jpg",
 									"profile": "https://iiif.io/api/image/2/level2.json"
 								},
 								"height": 509,
 								"width": 390
 							},
-							"on": "http://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_4_left"
+							"on": "https://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_4_left"
 						}
 					]
 				},
 				{
-					"@id": "http://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_4_right",
+					"@id": "https://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_4_right",
 					"@type": "sc:Canvas",
 					"label": "233r",
 					"height": 512,
@@ -219,22 +219,22 @@
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://digital-editing.fas.harvard.edu/manifests/D/annotation/S-Hs-814_4_right",
+							"@id": "https://digital-editing.fas.harvard.edu/manifests/D/annotation/S-Hs-814_4_right",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_4_right.jpg/full/full/0/default.jpg",
+								"@id": "https://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_4_right.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_4_right.jpg",
+									"@id": "https://digital-editing.fas.harvard.edu/loris/D/D-Hs-814_4_right.jpg",
 									"profile": "https://iiif.io/api/image/2/level2.json"
 								},
 								"height": 512,
 								"width": 389
 							},
-							"on": "http://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_4_right"
+							"on": "https://digital-editing.fas.harvard.edu/manifests/D/canvas/D-Hs-814_4_right"
 						}
 					]
 				}

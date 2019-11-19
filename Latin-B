@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://digital-editing.fas.harvard.edu/manifests/Latin-B",
+  "@id": "https://digital-editing.fas.harvard.edu/manifests/Latin-B",
   "@type": "sc:Manifest",
   "logo": "",
   "label": "Latin-B: Société ds Bollandistes, Ms. 347, fol. 23r–24r",
@@ -10,12 +10,12 @@
   "attribution": "Brussels, Société ds Bollandistes",
   "sequences": [
     {
-      "@id": "http://digital-editing.fas.harvard.edu/manifests/Latin-B/sequences/normal.json",
+      "@id": "https://digital-editing.fas.harvard.edu/manifests/Latin-B/sequences/normal.json",
       "@type": "sc:Sequence",
       "label": "Latin-B, fol. 23r–24r",
       "canvases": [
         {
-          "@id": "http://digital-editing.fas.harvard.edu/manifests/Latin-B/canvas/MsBoll347_f_23r",
+          "@id": "https://digital-editing.fas.harvard.edu/manifests/Latin-B/canvas/MsBoll347_f_23r",
           "@type": "sc:Canvas",
           "label": "23r",
           "height": 4896,
@@ -23,27 +23,27 @@
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "@id": "http://digital-editing.fas.harvard.edu/manifests/Latin-B/annotation/MsBoll347_f_23r",
+              "@id": "https://digital-editing.fas.harvard.edu/manifests/Latin-B/annotation/MsBoll347_f_23r",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://digital-editing.fas.harvard.edu/loris/Latin-B/MsBoll347_f_23r.jpg/full/full/0/default.jpg",
+                "@id": "https://digital-editing.fas.harvard.edu/loris/Latin-B/MsBoll347_f_23r.jpg/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://digital-editing.fas.harvard.edu/loris/Latin-B/MsBoll347_f_23r.jpg",
+                  "@id": "https://digital-editing.fas.harvard.edu/loris/Latin-B/MsBoll347_f_23r.jpg",
                   "profile": "https://iiif.io/api/image/2/level2.json"
                 },
                 "height": 4896,
           		"width": 3672
               },
-              "on": "http://digital-editing.fas.harvard.edu/manifests/Latin-B"
+              "on": "https://digital-editing.fas.harvard.edu/manifests/Latin-B"
             }
           ]
         },
         {
-          "@id": "http://digital-editing.fas.harvard.edu/manifests/Latin-B/canvas/MsBoll347_f_23v",
+          "@id": "https://digital-editing.fas.harvard.edu/manifests/Latin-B/canvas/MsBoll347_f_23v",
           "@type": "sc:Canvas",
           "label": "23v",
           "height": 4896,
@@ -51,27 +51,27 @@
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "@id": "http://digital-editing.fas.harvard.edu/manifests/Latin-B/annotation/MsBoll347_f_23v",
+              "@id": "https://digital-editing.fas.harvard.edu/manifests/Latin-B/annotation/MsBoll347_f_23v",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://digital-editing.fas.harvard.edu/loris/Latin-B/MsBoll347_f_23v.jpg/full/full/0/default.jpg",
+                "@id": "https://digital-editing.fas.harvard.edu/loris/Latin-B/MsBoll347_f_23v.jpg/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://digital-editing.fas.harvard.edu/loris/Latin-B/MsBoll347_f_23v.jpg",
+                  "@id": "https://digital-editing.fas.harvard.edu/loris/Latin-B/MsBoll347_f_23v.jpg",
                   "profile": "https://iiif.io/api/image/2/level2.json"
                 },
                 "height": 4896,
           		"width": 3672
               },
-              "on": "http://digital-editing.fas.harvard.edu/manifests/Latin-B"
+              "on": "https://digital-editing.fas.harvard.edu/manifests/Latin-B"
             }
           ]
         },
         {
-          "@id": "http://digital-editing.fas.harvard.edu/manifests/Latin-B/canvas/MsBoll347_f_24r",
+          "@id": "https://digital-editing.fas.harvard.edu/manifests/Latin-B/canvas/MsBoll347_f_24r",
           "@type": "sc:Canvas",
           "label": "24r",
           "height": 4896,
@@ -79,22 +79,22 @@
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "@id": "http://digital-editing.fas.harvard.edu/manifests/Latin-B/annotation/MsBoll347_f_24r",
+              "@id": "https://digital-editing.fas.harvard.edu/manifests/Latin-B/annotation/MsBoll347_f_24r",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://digital-editing.fas.harvard.edu/loris/Latin-B/MsBoll347_f_24r.jpg/full/full/0/default.jpg",
+                "@id": "https://digital-editing.fas.harvard.edu/loris/Latin-B/MsBoll347_f_24r.jpg/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://digital-editing.fas.harvard.edu/loris/Latin-B/MsBoll347_f_24r.jpg",
+                  "@id": "https://digital-editing.fas.harvard.edu/loris/Latin-B/MsBoll347_f_24r.jpg",
                   "profile": "https://iiif.io/api/image/2/level2.json"
                 },
                 "height": 4896,
           		"width": 3672
               },
-              "on": "http://digital-editing.fas.harvard.edu/manifests/Latin-B"
+              "on": "https://digital-editing.fas.harvard.edu/manifests/Latin-B"
             }
           ]
         }

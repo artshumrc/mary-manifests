@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://digital-editing.fas.harvard.edu/manifests/Latin-C",
+  "@id": "https://digital-editing.fas.harvard.edu/manifests/Latin-C",
   "@type": "sc:Manifest",
   "logo": "",
   "label": "Latin-C: Cod. Gl. kgl. S. 205, fol. 89v–90r",
@@ -10,12 +10,12 @@
   "attribution": "Copenhagen, Kongelige Bibliotek",
   "sequences": [
     {
-      "@id": "http://digital-editing.fas.harvard.edu/manifests/Latin-C/sequences/normal.json",
+      "@id": "https://digital-editing.fas.harvard.edu/manifests/Latin-C/sequences/normal.json",
       "@type": "sc:Sequence",
       "label": "Latin-C, fol. 89v-90r",
       "canvases": [
         {
-          "@id": "http://digital-editing.fas.harvard.edu/manifests/Latin-C/canvas/GKS-2_205_089v",
+          "@id": "https://digital-editing.fas.harvard.edu/manifests/Latin-C/canvas/GKS-2_205_089v",
           "@type": "sc:Canvas",
           "label": "89v",
           "height": 7260,
@@ -23,27 +23,27 @@
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "@id": "http://digital-editing.fas.harvard.edu/manifests/Latin-C/annotation/GKS-2_205_089v",
+              "@id": "https://digital-editing.fas.harvard.edu/manifests/Latin-C/annotation/GKS-2_205_089v",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://digital-editing.fas.harvard.edu/loris/Latin-C/GKS-2_205_089v.tif/full/full/0/default.jpg",
+                "@id": "https://digital-editing.fas.harvard.edu/loris/Latin-C/GKS-2_205_089v.tif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://digital-editing.fas.harvard.edu/loris/Latin-C/GKS-2_205_089v.tif",
+                  "@id": "https://digital-editing.fas.harvard.edu/loris/Latin-C/GKS-2_205_089v.tif",
                   "profile": "https://iiif.io/api/image/2/level2.json"
                 },
                 "height": 7260,
           		"width": 5247
               },
-              "on": "http://digital-editing.fas.harvard.edu/manifests/Latin-C"
+              "on": "https://digital-editing.fas.harvard.edu/manifests/Latin-C"
             }
           ]
         },
         {
-          "@id": "http://digital-editing.fas.harvard.edu/manifests/Latin-C/canvas/GKS-2_205_090r",
+          "@id": "https://digital-editing.fas.harvard.edu/manifests/Latin-C/canvas/GKS-2_205_090r",
           "@type": "sc:Canvas",
           "label": "90r",
           "height": 7140,
@@ -51,22 +51,22 @@
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
-              "@id": "http://digital-editing.fas.harvard.edu/manifests/Latin-C/annotation/GKS-2_205_090r",
+              "@id": "https://digital-editing.fas.harvard.edu/manifests/Latin-C/annotation/GKS-2_205_090r",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://digital-editing.fas.harvard.edu/loris/Latin-C/GKS-2_205_090r.tif/full/full/0/default.jpg",
+                "@id": "https://digital-editing.fas.harvard.edu/loris/Latin-C/GKS-2_205_090r.tif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://digital-editing.fas.harvard.edu/loris/Latin-C/GKS-2_205_090r.tif",
+                  "@id": "https://digital-editing.fas.harvard.edu/loris/Latin-C/GKS-2_205_090r.tif",
                   "profile": "https://iiif.io/api/image/2/level2.json"
                 },
                 "height": 7140,
           		"width": 5202
               },
-              "on": "http://digital-editing.fas.harvard.edu/manifests/Latin-C"
+              "on": "https://digital-editing.fas.harvard.edu/manifests/Latin-C"
             }
           ]
         }
