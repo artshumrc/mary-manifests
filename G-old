@@ -1,0 +1,356 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://digital-editing.fas.harvard.edu/manifests/G",
+	"@type": "sc:Manifest",
+	"logo": "",
+	"label": "G: Cod. 133 F 17, fol. 162ra–168rb",
+	"description": "s’Gravenhage, Koninklijke Bibliotheek, cod. 133 F 17, fol. 162ra–168rb. 1479, Middle Dutch. Printed transcriptions in Boxler (1996), pp. 489–495; De Vooys (1905), pp. 33–40",
+	"viewingDirection": "left-to-right",
+	"viewingHint": "paged",
+	"attribution": "s’Gravenhage, Koninklijke Bibliotheek,",
+	"sequences": [
+		{
+			"@id": "http://digital-editing.fas.harvard.edu/manifests/G/sequence/normal.json",
+			"@type": "sc:Sequence",
+			"label": "Normal Order",
+			"canvases": [
+				{
+					"@id": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_162r",
+					"@type": "sc:Canvas",
+					"label": "162r",
+					"height": 3780,
+					"width": 3860,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://digital-editing.fas.harvard.edu/manifests/G/annotation/133F17_162r",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_162r.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_162r.jpg",
+									"profile": "https://iiif.io/api/image/2/level2.json"
+								},
+								"height": 3780,
+								"width": 3860
+							},
+							"on": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_162r"
+						}
+					]
+				},
+				{
+					"@id": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_163r",
+					"@type": "sc:Canvas",
+					"label": "163r",
+					"height": 3780,
+					"width": 3860,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://digital-editing.fas.harvard.edu/manifests/G/annotation/133F17_163r",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_163r.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_163r.jpg",
+									"profile": "https://iiif.io/api/image/2/level2.json"
+								},
+								"height": 3954,
+								"width": 3780
+							},
+							"on": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_163r"
+						}
+					]
+				},
+				{
+					"@id": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_163v",
+					"@type": "sc:Canvas",
+					"label": "163v",
+					"height": 3942,
+					"width": 3780,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://digital-editing.fas.harvard.edu/manifests/G/annotation/133F17_163v",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_163v.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_163v.jpg",
+									"profile": "https://iiif.io/api/image/2/level2.json"
+								},
+								"height": 3942,
+								"width": 3780
+							},
+							"on": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_163v"
+						}
+					]
+				},
+				{
+					"@id": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_164r",
+					"@type": "sc:Canvas",
+					"label": "164r",
+					"height": 3922,
+					"width": 3780,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://digital-editing.fas.harvard.edu/manifests/G/annotation/133F17_164r",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_164r.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_164r.jpg",
+									"profile": "https://iiif.io/api/image/2/level2.json"
+								},
+								"height": 3922,
+								"width": 3780
+							},
+							"on": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_164r"
+						}
+					]
+				},
+				{
+					"@id": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_164v",
+					"@type": "sc:Canvas",
+					"label": "164v",
+					"height": 3897,
+					"width": 3780,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://digital-editing.fas.harvard.edu/manifests/G/annotation/133F17_164v",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_164v.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_164v.jpg",
+									"profile": "https://iiif.io/api/image/2/level2.json"
+								},
+								"height": 3954,
+								"width": 3780
+							},
+							"on": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_164v"
+						}
+					]
+				},
+				{
+					"@id": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_165r",
+					"@type": "sc:Canvas",
+					"label": "165r",
+					"height": 3972,
+					"width": 3860,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://digital-editing.fas.harvard.edu/manifests/G/annotation/133F17_165r",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_165r.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_165r.jpg",
+									"profile": "https://iiif.io/api/image/2/level2.json"
+								},
+								"height": 3972,
+								"width": 3780
+							},
+							"on": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_165r"
+						}
+					]
+				},
+				{
+					"@id": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_165v",
+					"@type": "sc:Canvas",
+					"label": "165v",
+					"height": 3897,
+					"width": 3780,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://digital-editing.fas.harvard.edu/manifests/G/annotation/133F17_165v",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_165v.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_165v.jpg",
+									"profile": "https://iiif.io/api/image/2/level2.json"
+								},
+								"height": 3897,
+								"width": 3780
+							},
+							"on": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_165v"
+						}
+					]
+				},
+				{
+					"@id": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_166r",
+					"@type": "sc:Canvas",
+					"label": "166r",
+					"height": 3780,
+					"width": 3940,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://digital-editing.fas.harvard.edu/manifests/G/annotation/133F17_166r",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_166r.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_166r.jpg",
+									"profile": "https://iiif.io/api/image/2/level2.json"
+								},
+								"height": 3780,
+								"width": 3940
+							},
+							"on": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_166r"
+						}
+					]
+				},
+				{
+					"@id": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_166v",
+					"@type": "sc:Canvas",
+					"label": "166v",
+					"height": 3780,
+					"width": 3995,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://digital-editing.fas.harvard.edu/manifests/G/annotation/133F17_166v",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_166v.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_166v.jpg",
+									"profile": "https://iiif.io/api/image/2/level2.json"
+								},
+								"height": 3780,
+								"width": 3995
+							},
+							"on": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_166v"
+						}
+					]
+				},
+				{
+					"@id": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_167r",
+					"@type": "sc:Canvas",
+					"label": "167r",
+					"height": 3780,
+					"width": 3933,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://digital-editing.fas.harvard.edu/manifests/G/annotation/133F17_167r",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_167r.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_167r.jpg",
+									"profile": "https://iiif.io/api/image/2/level2.json"
+								},
+								"height": 3780,
+								"width": 3933
+							},
+							"on": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_167r"
+						}
+					]
+				},
+				{
+					"@id": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_167v",
+					"@type": "sc:Canvas",
+					"label": "167v",
+					"height": 3780,
+					"width": 3897,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://digital-editing.fas.harvard.edu/manifests/G/annotation/133F17_167v",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_167v.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_167v.jpg",
+									"profile": "https://iiif.io/api/image/2/level2.json"
+								},
+								"height": 3780,
+								"width": 3897
+							},
+							"on": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_167v"
+						}
+					]
+				},
+				{
+					"@id": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_168r",
+					"@type": "sc:Canvas",
+					"label": "168r",
+					"height": 3780,
+					"width": 4028,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://digital-editing.fas.harvard.edu/manifests/G/annotation/133F17_168r",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_168r.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://digital-editing.fas.harvard.edu/loris/G/133F17_168r.jpg",
+									"profile": "https://iiif.io/api/image/2/level2.json"
+								},
+								"height": 3780,
+								"width": 4028
+							},
+							"on": "http://digital-editing.fas.harvard.edu/manifests/G/canvas/133F17_168r"
+						}
+					]
+				}
+			]
+		}
+	]
+}
